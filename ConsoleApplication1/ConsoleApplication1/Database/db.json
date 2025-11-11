@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "AA123",
+    "Type": 1,
+    "Students": [
+      {
+        "Id": 1,
+        "Name": "Emrah",
+        "Surname": "EHmedzade"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "AB123",
+    "Type": 2,
+    "Students": [
+      {
+        "Id": 2,
+        "Name": "Seid",
+        "Surname": "Memmedov"
+      }
+    ]
+  }
+]

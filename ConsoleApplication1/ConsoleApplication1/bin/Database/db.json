@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Name": "AA123",
+    "Type": 1,
+    "Students": [
+      {
+        "Id": 1,
+        "Name": "Emrah",
+        "Surname": "Ahghjghj"
+      }
+    ]
+  },
+  {
+    "Id": 1,
+    "Name": "AA123",
+    "Type": 1,
+    "Students": []
+  }
+]
