@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Algoritm\CustomListGenericVersion\CustomListGenericVersion\bin\Debug\net8.0\CustomListGenericVersion.exe
+C:\Users\User\Desktop\Algoritm\CustomListGenericVersion\CustomListGenericVersion\bin\Debug\net8.0\CustomListGenericVersion.deps.json
+C:\Users\User\Desktop\Algoritm\CustomListGenericVersion\CustomListGenericVersion\bin\Debug\net8.0\CustomListGenericVersion.runtimeconfig.json
+C:\Users\User\Desktop\Algoritm\CustomListGenericVersion\CustomListGenericVersion\bin\Debug\net8.0\CustomListGenericVersion.dll
+C:\Users\User\Desktop\Algoritm\CustomListGenericVersion\CustomListGenericVersion\bin\Debug\net8.0\CustomListGenericVersion.pdb
+C:\Users\User\Desktop\Algoritm\CustomListGenericVersion\CustomListGenericVersion\obj\Debug\net8.0\CustomListGenericVersion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Algoritm\CustomListGenericVersion\CustomListGenericVersion\obj\Debug\net8.0\CustomListGenericVersion.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Algoritm\CustomListGenericVersion\CustomListGenericVersion\obj\Debug\net8.0\CustomListGenericVersion.AssemblyInfo.cs
+C:\Users\User\Desktop\Algoritm\CustomListGenericVersion\CustomListGenericVersion\obj\Debug\net8.0\CustomListGenericVersion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Algoritm\CustomListGenericVersion\CustomListGenericVersion\obj\Debug\net8.0\CustomListGenericVersion.sourcelink.json
+C:\Users\User\Desktop\Algoritm\CustomListGenericVersion\CustomListGenericVersion\obj\Debug\net8.0\CustomListGenericVersion.dll
+C:\Users\User\Desktop\Algoritm\CustomListGenericVersion\CustomListGenericVersion\obj\Debug\net8.0\refint\CustomListGenericVersion.dll
+C:\Users\User\Desktop\Algoritm\CustomListGenericVersion\CustomListGenericVersion\obj\Debug\net8.0\CustomListGenericVersion.pdb
+C:\Users\User\Desktop\Algoritm\CustomListGenericVersion\CustomListGenericVersion\obj\Debug\net8.0\CustomListGenericVersion.genruntimeconfig.cache
+C:\Users\User\Desktop\Algoritm\CustomListGenericVersion\CustomListGenericVersion\obj\Debug\net8.0\ref\CustomListGenericVersion.dll
