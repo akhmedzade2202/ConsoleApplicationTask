@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Algoritm\CffPrac\CffPrac\bin\Debug\net8.0\CffPrac.exe
+C:\Users\User\Desktop\Algoritm\CffPrac\CffPrac\bin\Debug\net8.0\CffPrac.deps.json
+C:\Users\User\Desktop\Algoritm\CffPrac\CffPrac\bin\Debug\net8.0\CffPrac.runtimeconfig.json
+C:\Users\User\Desktop\Algoritm\CffPrac\CffPrac\bin\Debug\net8.0\CffPrac.dll
+C:\Users\User\Desktop\Algoritm\CffPrac\CffPrac\bin\Debug\net8.0\CffPrac.pdb
+C:\Users\User\Desktop\Algoritm\CffPrac\CffPrac\obj\Debug\net8.0\CffPrac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Algoritm\CffPrac\CffPrac\obj\Debug\net8.0\CffPrac.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Algoritm\CffPrac\CffPrac\obj\Debug\net8.0\CffPrac.AssemblyInfo.cs
+C:\Users\User\Desktop\Algoritm\CffPrac\CffPrac\obj\Debug\net8.0\CffPrac.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Algoritm\CffPrac\CffPrac\obj\Debug\net8.0\CffPrac.sourcelink.json
+C:\Users\User\Desktop\Algoritm\CffPrac\CffPrac\obj\Debug\net8.0\CffPrac.dll
+C:\Users\User\Desktop\Algoritm\CffPrac\CffPrac\obj\Debug\net8.0\refint\CffPrac.dll
+C:\Users\User\Desktop\Algoritm\CffPrac\CffPrac\obj\Debug\net8.0\CffPrac.pdb
+C:\Users\User\Desktop\Algoritm\CffPrac\CffPrac\obj\Debug\net8.0\CffPrac.genruntimeconfig.cache
+C:\Users\User\Desktop\Algoritm\CffPrac\CffPrac\obj\Debug\net8.0\ref\CffPrac.dll
